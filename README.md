@@ -6,8 +6,7 @@
 
 ## 📂 Projects
 
-- **BGChanger** – interactively change page background colors  
-- *(Add your own mini‑projects here!)*
+- **BGChanger** – interactively change the web page’s background color. Ideal for learning DOM manipulation and event handling.
 
 ---
 
@@ -15,8 +14,9 @@
 
 1. **Clone this repo**  
    ```bash
-   git clone https://github.com/eshuthakurathi/Basic-Projects.git  
+   git clone https://github.com/eshuthakurathi/Basic-Projects.git
    cd Basic-Projects
+
 
 ## 🛠️ Built With
 
