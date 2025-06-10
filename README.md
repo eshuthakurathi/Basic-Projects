@@ -12,11 +12,19 @@
 
 ## 🚀 Getting Started
 
-1. **Clone this repo**  
+1. **Clone this repository:**  
    ```bash
    git clone https://github.com/eshuthakurathi/Basic-Projects.git
    cd Basic-Projects
 
+2. **Navigate to the project folder:**
+   cd Basic-Projects
+
+3. Open the project of your choice:
+
+      Go to any folder (e.g., youtube-clone, bg-color-changer)
+
+      Open the index.html file in your browser.
 
 ## 🛠️ Built With
 
